@@ -1,0 +1,13 @@
+{
+    "name": "fonts-asset/socialicon",
+    "description": "Socialicon for composer.",
+    "type": "fonts-asset",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zsgsdesign",
+            "email": "zsgsdesign@gmail.com"
+        }
+    ],
+    "require": {}
+}
