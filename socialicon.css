@@ -1,11 +1,11 @@
 @font-face {
   font-family: "socialicon";
-  src: url('socialicon.eot?t=1628696017782'); /* IE9 */
-  src: url('socialicon.eot?t=1628696017782#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('socialicon.woff2?t=1628696017782') format('woff2'),
-       url('socialicon.woff?t=1628696017782') format('woff'),
-       url('socialicon.ttf?t=1628696017782') format('truetype'),
-       url('socialicon.svg?t=1628696017782#socialicon') format('svg');
+  src: url('fonts/socialicon.eot?t=1628696017782'); /* IE9 */
+  src: url('fonts/socialicon.eot?t=1628696017782#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/socialicon.woff2?t=1628696017782') format('woff2'),
+       url('fonts/socialicon.woff?t=1628696017782') format('woff'),
+       url('fonts/socialicon.ttf?t=1628696017782') format('truetype'),
+       url('fonts/socialicon.svg?t=1628696017782#socialicon') format('svg');
 }
 
 .socialicon {
@@ -18,5 +18,5 @@
 .socialicon.aauth-circle:before { content: "\e600"; }
 .socialicon.aauth-circle.colored { color:#eb533d; }
 
-.socialicon-github-circle:before { content: "\e92b"; }
-.socialicon-github-circle.colored { color:#24292e; }
+.socialicon.github-circle:before { content: "\e92b"; }
+.socialicon.github-circle.colored { color:#24292e; }
